@@ -51,7 +51,7 @@ const Navbar = () => {
           className="navbar-connect"
           data-cursor="disable"
         >
-          sarfrazafzal790@gmail.com
+         support@devcore.com
         </a>
         <ul>
           <li>

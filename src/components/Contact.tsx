@@ -11,7 +11,7 @@ const Contact = () => {
             <h4>Email</h4>
             <p>
               <a href="mailto:sarfrazafzal790@gmail.com" data-cursor="disable">
-                sarfrazafzal790@gmail.com
+                support@devcore.com
               </a>
             </p>
             <h4>Phone</h4>
@@ -42,7 +42,7 @@ const Contact = () => {
           </div>
           <div className="contact-box">
             <h2>
-              Designed and Developed <br /> by <span>Muhammad Sarfraz Afzal</span>
+              Designed and Developed <br /> by <span>Devcore's development team </span>
             </h2>
             <h5>
               <MdCopyright /> 2025

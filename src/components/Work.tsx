@@ -50,7 +50,7 @@ const Work = () => {
     <div className="work-section" id="work">
       <div className="work-container section-container">
         <h2>
-          My <span>Work</span>
+          Our <span>Work</span>
         </h2>
         <div className="work-flex">
           {[
@@ -77,6 +77,31 @@ const Work = () => {
               category: "Responsive SaaS",
               tools: "React.js, Next.js, Tailwind CSS, REST APIs",
               image: "/images/baberya.jpg",
+            },{
+              name: "CraftBazzar",
+              category: "E-Commerce Platform",
+              tools: "React.js, Node.js, Express.js, MongoDB, RESTful APIs",
+              image: "/images/craftbazzar.jpg",
+            },{
+              name: "ContractHubPK",
+              category: "MERN Stack / FYP",
+              tools: "React.js, Node.js, Express.js, MongoDB, REST APIs",
+              image: "/images/contracthub.jpg",
+            },{
+              name: "CraftBazzar",
+              category: "E-Commerce Platform",
+              tools: "React.js, Node.js, Express.js, MongoDB, RESTful APIs",
+              image: "/images/craftbazzar.jpg",
+            },{
+              name: "Baberya Web Apps",
+              category: "Responsive SaaS",
+              tools: "React.js, Next.js, Tailwind CSS, REST APIs",
+              image: "/images/baberya.jpg",
+            },{
+              name: "ContractHubPK",
+              category: "MERN Stack / FYP",
+              tools: "React.js, Node.js, Express.js, MongoDB, REST APIs",
+              image: "/images/contracthub.jpg",
             },
           ].map((project, index) => (
             <div className="work-box" key={index}>
